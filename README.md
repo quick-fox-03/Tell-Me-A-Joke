@@ -6,7 +6,7 @@ Since this site doesn't have a hosting server, it can be run locally using NodeJ
 * Make sure you have NodeJS installed using npm --version on your CLI. If not, you may install it from the nodeJS website.
 * Use "npm i" in your terminal to install all dependencies before running the website. 
 * Run the node application using "node index.js" in the terminal, once you have navigated to root directory in parent folder.
-* Go to the localhost port address provided in the console, and have fun!
+* Go to the localhost port address provided in the console, and have fun! By default, the localhost port address is set to <code>localhost:3000</code>
 # How to run
 The website is easy to use. Simply put a word in the search box, and the application will return a joke using that word.
 
