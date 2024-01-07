@@ -11,3 +11,7 @@ Since this site doesn't have a hosting server, it can be run locally using NodeJ
 The website is easy to use. Simply put a word in the search box, and the application will return a joke using that word.
 
 Visit the about page to get information on the API and a link to the JokeAPI Website.
+
+# Screenshots
+![Screenshot](public/screenshots/screenshot-1.png "Home Page")
+
