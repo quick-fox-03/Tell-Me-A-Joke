@@ -12,6 +12,4 @@ The website is easy to use. Simply put a word in the search box, and the applica
 
 Visit the about page to get information on the API and a link to the JokeAPI Website.
 
-# Screenshots
-![Screenshot](tree/master/public/screenshots/screenshot-1.jpg "Home Page")
 
