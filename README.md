@@ -15,6 +15,10 @@ Visit the about page to get information on the API and a link to the JokeAPI Web
 # Screenshots
 
 Home Page
+
 ![Screenshot](public/screenshots/screenshot-1.jpg)
 
+Joke Example
+
+![Screenshot](public/screenshots/screenshot-2.jpg)
 
