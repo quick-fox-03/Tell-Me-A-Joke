@@ -19,7 +19,7 @@ The dependencies and their needs are explained below:
 * Axios : Promise based HTTP client for the browser and node.js. This is used to handle requests made from server to an API. [Axios](https://www.npmjs.com/package/axios)
 * Body Parser : Node.js body parsing middleware. Used to parse url-encoded data sent over from client to server, using HTML forms, etc. [Body Parser](https://www.npmjs.com/package/body-parser)
 
-# Acknowledgemnts
+# Acknowledgements
 Thanks to [Sven Fehler](https://github.com/Sv443) for creating JokeAPI, upon which this whole site relies heavily.
 
 # Screenshots
