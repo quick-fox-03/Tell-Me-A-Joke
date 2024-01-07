@@ -18,6 +18,7 @@ The dependencies and their needs are explained below:
 * ExpressJS : ExpressJS is a npm module based fast framework that helps in writing server side code easily. This is used in the project to handle client side requests to server. [Express](https://www.npmjs.com/package/express)
 * Axios : Promise based HTTP client for the browser and node.js. This is used to handle requests made from server to an API. [Axios](https://www.npmjs.com/package/axios)
 * Body Parser : Node.js body parsing middleware. Used to parse url-encoded data sent over from client to server, using HTML forms, etc. [Body Parser](https://www.npmjs.com/package/body-parser)
+* EJS : Embedded Javascript Templates, useful for integrating HTML and JavaScript both for dynamic web-page rendering.
 
 # Acknowledgements
 Thanks to [Sven Fehler](https://github.com/Sv443) for creating JokeAPI, upon which this whole site relies heavily.
